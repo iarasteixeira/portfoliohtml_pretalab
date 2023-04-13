@@ -9,7 +9,6 @@ Link do projeto no ar:
 
 O projeto final é um portfólio feito em HTML, CSS. 
 
-Obs: não consegui hospedar o site no netlify, só deu page not found mesmo estando aqui no meu github😓. Fiz e refiz o processo diversas vezes, procurei solução na internet, falei com a monitora, mas não resolveu. De qualquer forma, é possível vizualizar tudo abrindo o live server pelo vscode, vi que o codigo funcionou. Vou continuar tentando descobrir qual é esse erro. 
 
 Ferramentas usadas:
 
