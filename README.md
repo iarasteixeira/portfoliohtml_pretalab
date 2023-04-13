@@ -5,25 +5,24 @@
 ## Sobre o projeto
 Link do projeto no ar:
 
-- [link do projeto final no netlify]()
+- [link do projeto final no netlify](https://portfolioiarateixeira.netlify.app/)
 
-O projeto final é um portfólio feito em HTML, CSS e hospedado no netlify.
+O projeto final é um portfólio feito em HTML, CSS. 
+
+Obs: não consegui hospedar o site no netlify, só deu page not found mesmo estando aqui no meu github😓. Fiz e refiz o processo diversas vezes, procurei solução na internet, falei com a monitora, mas não resolveu. De qualquer forma, é possível vizualizar tudo abrindo o live server pelo vscode, vi que o codigo funcionou. Vou continuar tentando descobrir qual é esse erro. 
 
 Ferramentas usadas:
+
 ✓		Visual Studio Code como ambiente de desenvolvimento.
 
 ✓		Github como ferramenta de versionamento.
 
-✓		Netlify para realizarmos o Deploy da nossa aplicação.
 
-<br>
-Link do Protótipo:
 
-- [link do protótipo do projeto final](portfolioiarateixeira.netlify.app)
 
 ---
 <br>
-Foi difícil mas foi bom demais!
+Aprendi tanto, obg pessoal :)
 <br>
 
 ### Bora conectar!
@@ -34,4 +33,4 @@ Foi difícil mas foi bom demais!
 
 <br>
 
-Abraços, Iara
+Abraços, Iara.
