@@ -7,7 +7,7 @@ Link do projeto no ar:
 
 - [link do projeto final no netlify](https://portfolioiarateixeira.netlify.app/)
 
-O projeto final é um portfólio feito em HTML, CSS. 
+O projeto final é um portfólio feito em HTML, CSS e hospedado pelo Netlify.
 
 
 Ferramentas usadas:
