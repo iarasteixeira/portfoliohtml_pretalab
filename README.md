@@ -16,7 +16,7 @@ Ferramentas usadas:
 
 ✓		Github como ferramenta de versionamento.
 
-
+✓		Netlify como ferramenta para hospedar o site.
 
 
 ---
@@ -24,7 +24,7 @@ Ferramentas usadas:
 Aprendi tanto, obg pessoal :)
 <br>
 
-### Bora conectar!
+### Bora conectar!!
 
 - [instagram](https://www.instagram.com/iaras.teixeira)
 - [linkedin](https://www.linkedin.com/in/iara-teixeira-a19985213/)
@@ -32,4 +32,4 @@ Aprendi tanto, obg pessoal :)
 
 <br>
 
-Abraços, Iara.
+Abraços, Iara <3
